@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.kodiguides"
+	name="Video Guides for Kodi" version="1.0.0" provider-name="Josh.5">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube" version="5.0.9"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Help Guides for using Kodi, sourced from YouTube</summary>
+    <description lang="en">Help Guides for using Kodi, sourced from YouTube</description>
+    <platform>all</platform>
+  </extension>
+</addon>

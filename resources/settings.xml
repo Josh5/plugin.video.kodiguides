@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+  <category label="6000">
+    <setting id="HASHAM_KODI" type="bool" label="Husham Memar Kodi Tutorials" default="true"/>
+    <setting id="KABORATECH_KODI" type="bool" label="KABORATECH KODI" default="true"/>
+    <setting id="SUPACHARGEDIOS_TUT" type="bool" label="SUPACHARGEDIOS Tutorials" default="true"/>
+    <setting id="XBMCONNECT_TVADD" type="bool" label="XBMCONNECT TvAddons.Ag" default="true"/>
+    <setting id="XBMCONNECT_TX" type="bool" label="XBMCONNECT TotalXbmc.Tv" default="true"/>
+    <setting id="XBMCONNECT_XUN" type="bool" label="XBMCONNECT Xunitytalk" default="true"/>
+    <setting id="XBMCONNECT_LIVE" type="bool" label="XBMCONNECT Live TV" default="true"/>
+    <setting id="XBMCONNECT_TT" type="bool" label="XBMCONNECT Tips and Tricks" default="true"/>
+    <setting id="XBMCONNECT_AEON" type="bool" label="XBMCONNECT Customise Aeon Nox" default="true"/>
+    <setting id="XBMCONNECT_SKIN" type="bool" label="XBMCONNECT Customise Skins" default="true"/>
+    <setting id="XBMCONNECT_MUS" type="bool" label="XBMCONNECT Music" default="true"/>
+  </category>
+</settings>
